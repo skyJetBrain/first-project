@@ -1,2 +1,6 @@
-test
-test2
+
+public class Practicum {
+    public static void main(String[] args) {
+        System.out.println("test git");
+    }
+}
